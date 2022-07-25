@@ -126,6 +126,7 @@ body{
         width: 100%;
         height: auto;
         padding: 23px;
+        border-radius: 0px 0px 12px 12px;
     }
     .container .content .text .perfume{
         padding-bottom: 12px;
