@@ -102,7 +102,7 @@ body{
 .container .content .text .cart-button:hover{
     background-color: hsl(158, 36%, 26%);
 }
-@media screen and (max-width: 375px){
+@media screen and (max-width: 376px){
     .container{
         height: auto;
     }
