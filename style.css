@@ -103,9 +103,6 @@ body{
     background-color: hsl(158, 36%, 26%);
 }
 @media screen and (max-width: 375px){
-    body{
-        padding-bottom: 20px;
-    }
     .container{
         height: auto;
     }
