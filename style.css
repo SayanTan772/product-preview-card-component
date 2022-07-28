@@ -104,7 +104,7 @@ body{
 }
 @media screen and (max-width: 375px){
     body{
-        padding: 20px 0px;
+        padding-bottom: 20px;
     }
     .container{
         height: auto;
