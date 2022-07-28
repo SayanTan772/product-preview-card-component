@@ -107,7 +107,7 @@ body{
         height: auto;
     }
     .container .content{
-        padding: 20px;
+        padding: 25px 15px;
     }
     .container .content .image{
         width: 100%;
